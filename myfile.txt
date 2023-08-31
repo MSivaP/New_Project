@@ -40,7 +40,6 @@ LINUX
 V-CENTER :
 1.How to create the server in v-center.
 2.How to add the disk/ram/cpu cores into the existing vm.
-3.How to assign IP to the Virtual Server.
 
 REAL TIME ISSUES :
 1.User not able login the server.
